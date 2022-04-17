@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root{
+	--orange: #ed6300;
+	--blue: #0a0f1d;
+	--branco: rgba(255,255,255,0.9);
+	--opacity: 0.7;
+	--shadow: 1px 2px 3px rgba(0,0,0,0.24);
+}
+
+.v-toolbar__content, .v-toolbar__extension{
+	padding: 0!important;
+}
+
+.v-application--wrap .faixa-top{
+	max-width: 65%!important;
+}

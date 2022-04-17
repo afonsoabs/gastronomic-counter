@@ -1,4 +1,4 @@
-# site-master
+# gastronomic-counter
 
 ## Project setup
 ```
